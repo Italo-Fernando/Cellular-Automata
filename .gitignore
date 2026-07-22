@@ -1,3 +1,6 @@
+# Resultados de simulação gerados por main.py (totalmente reprodutíveis)
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +219,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.claude/
