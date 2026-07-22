@@ -1,0 +1,4 @@
+metric,variant_a,variant_b,u_stat,p_value
+peak_fractal_dim,delta,omicron,88.0,1.0737142279417634e-15
+peak_fractal_dim,delta,original,1954.0,1.102690195943181e-06
+peak_fractal_dim,omicron,original,2409.0,1.3301808657823231e-15
